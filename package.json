@@ -1,0 +1,21 @@
+{
+  "name": "markdown-it-mlfragment",
+  "version": "1.0.0",
+  "description": "Markdown parser extension for <<mlfragments>> used in modernlit, a tool bringing literate programming to the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rtm@gol.com",
+  "license": "ISC",
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin",
+    "modernlit"
+  ],
+  "dependencies": {
+    "@types/markdown-it": "0.0.5",
+    "markdown-it": "^8.4.2",
+    "markdown-it-regexp": "^0.4.0"
+  }
+}
